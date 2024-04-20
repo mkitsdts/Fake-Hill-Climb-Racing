@@ -1,0 +1,19 @@
+﻿  bmath.cpp
+  car.cpp
+  game.cpp
+C:\Users\mkitsdtts\OneDrive\mkitsdts\code\Program\Game\Car\class\game.cpp(112,44): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mkitsdtts\OneDrive\mkitsdts\code\Program\Game\Car\class\game.cpp(112,23): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+  main.cpp
+  physics.cpp
+C:\Users\mkitsdtts\OneDrive\mkitsdts\code\Program\Game\Car\class\physics.cpp(15,29): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+  terrain.cpp
+  正在生成代码...
+  Car.vcxproj -> C:\Users\mkitsdtts\OneDrive\mkitsdts\code\Program\Game\Car\x64\Debug\Car.exe
